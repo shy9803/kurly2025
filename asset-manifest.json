@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shy9803/react2025/static/css/main.16db54a2.css",
+    "main.js": "/shy9803/react2025/static/js/main.5ca63667.js",
+    "index.html": "/shy9803/react2025/index.html",
+    "main.16db54a2.css.map": "/shy9803/react2025/static/css/main.16db54a2.css.map",
+    "main.5ca63667.js.map": "/shy9803/react2025/static/js/main.5ca63667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16db54a2.css",
+    "static/js/main.5ca63667.js"
+  ]
+}
