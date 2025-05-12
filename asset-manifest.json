@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kurly2025/static/css/main.16db54a2.css",
+    "main.js": "/kurly2025/static/js/main.047e43fe.js",
+    "index.html": "/kurly2025/index.html",
+    "main.16db54a2.css.map": "/kurly2025/static/css/main.16db54a2.css.map",
+    "main.047e43fe.js.map": "/kurly2025/static/js/main.047e43fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16db54a2.css",
+    "static/js/main.047e43fe.js"
+  ]
+}
